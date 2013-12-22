@@ -1,5 +1,5 @@
-Tube Viz README
-===============
+tube-viz
+========
 
 ## Processing Steps
 
