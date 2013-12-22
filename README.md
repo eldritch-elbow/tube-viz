@@ -1,7 +1,7 @@
 Tube Viz README
 ===============
 
-# Processing Steps
+## Processing Steps
 
 Downloaded CSV data from:
 http://www.tfl.gov.uk/businessandpartners/syndication/16493.aspx
@@ -14,7 +14,7 @@ Same with ending locations, then uniqued both:
 
   cat ends.txt | sort | uniq > ends_uniq.txt
 
-# References
+## References
 
 Similar examples:
 
